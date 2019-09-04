@@ -1,3 +1,6 @@
+## Management System
+본 프로젝트는 교회 시스템을 관리하기 위해 만들어진 관리 시스템 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
